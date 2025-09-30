@@ -1,4 +1,4 @@
-# Step-by-step guide to host a secure static website on AWS EC2 with HTTPS and Route53# Host a Static Website Securely on AWS EC2 with HTTPS
+# Step-by-step guide to host a secure static website on AWS EC2 with HTTPS and Route53
 
 A complete step-by-step guide to deploy a static website on AWS EC2, secure it with HTTPS (Let's Encrypt SSL), and connect it to your custom domain using Route53.
 
