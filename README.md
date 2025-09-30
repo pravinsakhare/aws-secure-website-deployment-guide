@@ -71,7 +71,7 @@ sudo systemctl enable httpd
 5. Click **Launch Instance**
 ---
 
-### Step 2: Allocate and Associate Elastic IP
+### Step 2: Associate Elastic IP
 
 1. In EC2 Console → **Elastic IPs** → **Allocate Elastic IP address**
 2. Click **Allocate**
